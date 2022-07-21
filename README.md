@@ -15,11 +15,11 @@ O total das entradas e saídas é mostrada em 3 cards: "Entradas", "Saídas" e "
 
 ## 📁 Componentes
 
-**Dashboard:** </br>
-**Header:**  </br>
-**NewTransactionModal:** </br>
-**Summary:** </br>
-**TransactionTable:** </br>
+**Dashboard** </br>
+**Header**  </br>
+**NewTransactionModal** </br>
+**Summary** </br>
+**TransactionTable** </br>
  
 ## :dart: Etapas ##
 
