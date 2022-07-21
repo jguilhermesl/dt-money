@@ -1,7 +1,7 @@
 # DT Money - RocketSeat 
 
-<img src="./public/img/dashboard.png.png" alt="Página dashboard">
-<img src="./public/img/modal.png" alt="Modal para add transação">
+<img src="./prints-readme/dashboard.png" alt="Página dashboard" />
+<img src="./prints-readme/modal.png" alt="Modal para add transação" />
 
 >  Aplicação com React completa utilizando conceitos fundamentais e ferramentas muito importantes do ecossistema React, como Styled Components, MirageJS, ContextAPI, Hooks, Componetização, Axios e muito mais!
 
